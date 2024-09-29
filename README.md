@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am Idkrr and I am very glad you stopped by! :)
 
 ## About me 
 
-I am 19 year old girl from Austria and a passionate Software Developer apprentice enthusiast with a thirst for learning and exploration. Whether it's diving into new programming languages, experimenting with cutting-edge technologies, or exploring different problem-solving approaches, I'm always eager to expand my horizons.
+I am 20 year old girl from Austria and a passionate Software Developer apprentice enthusiast with a thirst for learning and exploration. Whether it's diving into new programming languages, experimenting with cutting-edge technologies, or exploring different problem-solving approaches, I'm always eager to expand my horizons.
 
 
 ## Open to Collaboration 
